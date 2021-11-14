@@ -1,0 +1,40 @@
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Identity.deps.json
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Identity.runtimeconfig.json
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Identity.runtimeconfig.dev.json
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Identity.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ref\ADP.ADAA.Identity.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Identity.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Application.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Domain.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Application.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Domain.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.csprojAssemblyReference.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.AssemblyInfoInputs.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.AssemblyInfo.cs
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.csproj.CoreCompileInputs.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.csproj.CopyComplete
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ref\ADP.ADAA.Identity.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.genruntimeconfig.cache
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Identity.deps.json
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Identity.runtimeconfig.json
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Identity.runtimeconfig.dev.json
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Identity.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ref\ADP.ADAA.Identity.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Identity.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Application.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Domain.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Application.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\bin\Debug\netcoreapp5\ADP.ADAA.Domain.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.csprojAssemblyReference.cache
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.AssemblyInfoInputs.cache
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.AssemblyInfo.cs
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.csproj.CoreCompileInputs.cache
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.csproj.CopyComplete
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ref\ADP.ADAA.Identity.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Identity\obj\Debug\netcoreapp5\ADP.ADAA.Identity.genruntimeconfig.cache

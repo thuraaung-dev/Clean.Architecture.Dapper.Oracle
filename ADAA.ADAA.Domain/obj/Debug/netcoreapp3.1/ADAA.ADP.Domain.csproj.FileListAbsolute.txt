@@ -1,0 +1,9 @@
+C:\Users\501769\Source\Repos\ADP.ADAA\ADAA.ADP.Domain\bin\Debug\netcoreapp3.1\ADAA.ADP.Domain.deps.json
+C:\Users\501769\Source\Repos\ADP.ADAA\ADAA.ADP.Domain\bin\Debug\netcoreapp3.1\ADAA.ADP.Domain.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADAA.ADP.Domain\bin\Debug\netcoreapp3.1\ADAA.ADP.Domain.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADAA.ADP.Domain\obj\Debug\netcoreapp3.1\ADAA.ADP.Domain.csprojAssemblyReference.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADAA.ADP.Domain\obj\Debug\netcoreapp3.1\ADAA.ADP.Domain.AssemblyInfoInputs.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADAA.ADP.Domain\obj\Debug\netcoreapp3.1\ADAA.ADP.Domain.AssemblyInfo.cs
+C:\Users\501769\Source\Repos\ADP.ADAA\ADAA.ADP.Domain\obj\Debug\netcoreapp3.1\ADAA.ADP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADAA.ADP.Domain\obj\Debug\netcoreapp3.1\ADAA.ADP.Domain.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADAA.ADP.Domain\obj\Debug\netcoreapp3.1\ADAA.ADP.Domain.pdb

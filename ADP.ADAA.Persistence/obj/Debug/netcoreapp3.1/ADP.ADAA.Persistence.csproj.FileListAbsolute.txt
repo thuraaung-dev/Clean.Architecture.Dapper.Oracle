@@ -1,0 +1,34 @@
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Persistence.deps.json
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Persistence.runtimeconfig.json
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Persistence.runtimeconfig.dev.json
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Persistence.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Persistence.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Application.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Domain.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Application.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Domain.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.csprojAssemblyReference.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.AssemblyInfoInputs.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.AssemblyInfo.cs
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.csproj.CopyComplete
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.genruntimeconfig.cache
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Persistence.deps.json
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Persistence.runtimeconfig.json
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Persistence.runtimeconfig.dev.json
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Persistence.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Persistence.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Application.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Domain.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Application.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\bin\Debug\netcoreapp3.1\ADP.ADAA.Domain.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.csprojAssemblyReference.cache
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.AssemblyInfoInputs.cache
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.AssemblyInfo.cs
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.csproj.CopyComplete
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Persistence\obj\Debug\netcoreapp3.1\ADP.ADAA.Persistence.genruntimeconfig.cache

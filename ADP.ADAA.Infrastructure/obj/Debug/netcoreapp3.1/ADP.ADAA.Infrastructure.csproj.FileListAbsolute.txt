@@ -1,0 +1,28 @@
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.deps.json
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Application.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Domain.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Application.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Domain.pdb
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.csprojAssemblyReference.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.AssemblyInfo.cs
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.csproj.CopyComplete
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.dll
+C:\Users\501769\Source\Repos\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.deps.json
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Application.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Domain.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Application.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\bin\Debug\netcoreapp3.1\ADP.ADAA.Domain.pdb
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.csprojAssemblyReference.cache
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.AssemblyInfo.cs
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.csproj.CopyComplete
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.dll
+C:\Users\501769\Documents\ADAA Backup\ADP.ADAA\ADP.ADAA.Infrastructure\obj\Debug\netcoreapp3.1\ADP.ADAA.Infrastructure.pdb

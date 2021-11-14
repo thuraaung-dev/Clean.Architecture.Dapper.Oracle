@@ -1,0 +1,561 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Api\\ADP.ADAA.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\ADP.ADAA.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\ADP.ADAA.Application.csproj",
+        "projectName": "ADP.ADAA.Application",
+        "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\ADP.ADAA.Application.csproj",
+        "packagesPath": "C:\\Users\\501769\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\501769\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\NugetPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Domain\\ADP.ADAA.Domain.csproj": {
+                "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Domain\\ADP.ADAA.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.4, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.3.4, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Autofac.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Domain\\ADP.ADAA.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Domain\\ADP.ADAA.Domain.csproj",
+        "projectName": "ADP.ADAA.Domain",
+        "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Domain\\ADP.ADAA.Domain.csproj",
+        "packagesPath": "C:\\Users\\501769\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\501769\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\NugetPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Api\\ADP.ADAA.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Api\\ADP.ADAA.Api.csproj",
+        "projectName": "ADP.ADAA.Api",
+        "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Api\\ADP.ADAA.Api.csproj",
+        "packagesPath": "C:\\Users\\501769\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\501769\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\NugetPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\ADP.ADAA.Application.csproj": {
+                "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\ADP.ADAA.Application.csproj"
+              },
+              "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Identity\\ADP.ADAA.Identity.csproj": {
+                "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Identity\\ADP.ADAA.Identity.csproj"
+              },
+              "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Infrastructure\\ADP.ADAA.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Infrastructure\\ADP.ADAA.Infrastructure.csproj"
+              },
+              "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Persistence\\ADP.ADAA.Persistence.csproj": {
+                "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Persistence\\ADP.ADAA.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Newtonsoft.json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Identity\\ADP.ADAA.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Identity\\ADP.ADAA.Identity.csproj",
+        "projectName": "ADP.ADAA.Identity",
+        "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Identity\\ADP.ADAA.Identity.csproj",
+        "packagesPath": "C:\\Users\\501769\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\501769\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\NugetPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5",
+            "projectReferences": {
+              "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\ADP.ADAA.Application.csproj": {
+                "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\ADP.ADAA.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Windows.Compatibility": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Newtonsoft.json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Infrastructure\\ADP.ADAA.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Infrastructure\\ADP.ADAA.Infrastructure.csproj",
+        "projectName": "ADP.ADAA.Infrastructure",
+        "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Infrastructure\\ADP.ADAA.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\501769\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\501769\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\NugetPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\ADP.ADAA.Application.csproj": {
+                "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\ADP.ADAA.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.1.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.24.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Persistence\\ADP.ADAA.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Persistence\\ADP.ADAA.Persistence.csproj",
+        "projectName": "ADP.ADAA.Persistence",
+        "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Persistence\\ADP.ADAA.Persistence.csproj",
+        "packagesPath": "C:\\Users\\501769\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADP.ADAA.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\501769\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\NugetPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\ADP.ADAA.Application.csproj": {
+                "projectPath": "C:\\Users\\501769\\Documents\\ADAA Backup\\ADP.ADAA\\ADAA.ADP.Application\\ADP.ADAA.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Dapper.Oracle": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Devart.Data.Oracle.EFCore": {
+              "target": "Package",
+              "version": "[9.14.1369, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.21.4, )"
+            },
+            "oracle.manageddataaccess.core": {
+              "target": "Package",
+              "version": "[3.21.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
