@@ -973,19 +973,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\501769\\.nuget\\packages\\": {}
+    "C:\\Users\\atef\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\501769\\Source\\Repos\\ADP.Solution.Architecture\\ADP.ADAA.Infrastructure\\ADP.Solution.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\atef\\Documents\\ADP.Solution.Architecture\\ADP.Solution.Architecture\\ADP.ADAA.Infrastructure\\ADP.Solution.Infrastructure.csproj",
       "projectName": "ADP.Solution.Infrastructure",
-      "projectPath": "C:\\Users\\501769\\Source\\Repos\\ADP.Solution.Architecture\\ADP.ADAA.Infrastructure\\ADP.Solution.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\501769\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\501769\\Source\\Repos\\ADP.Solution.Architecture\\ADP.ADAA.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\atef\\Documents\\ADP.Solution.Architecture\\ADP.Solution.Architecture\\ADP.ADAA.Infrastructure\\ADP.Solution.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\atef\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\atef\\Documents\\ADP.Solution.Architecture\\ADP.Solution.Architecture\\ADP.ADAA.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\501769\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\atef\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -993,18 +993,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\NugetPackage": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\501769\\Source\\Repos\\ADP.Solution.Architecture\\ADAA.ADAA.Application\\ADP.Solution.Application.csproj": {
-              "projectPath": "C:\\Users\\501769\\Source\\Repos\\ADP.Solution.Architecture\\ADAA.ADAA.Application\\ADP.Solution.Application.csproj"
+            "C:\\Users\\atef\\Documents\\ADP.Solution.Architecture\\ADP.Solution.Architecture\\ADAA.ADAA.Application\\ADP.Solution.Application.csproj": {
+              "projectPath": "C:\\Users\\atef\\Documents\\ADP.Solution.Architecture\\ADP.Solution.Architecture\\ADAA.ADAA.Application\\ADP.Solution.Application.csproj"
             },
-            "C:\\Users\\501769\\Source\\Repos\\ADP.Solution.Architecture\\ADAA.ADAA.Domain\\ADP.Solution.Domain.csproj": {
-              "projectPath": "C:\\Users\\501769\\Source\\Repos\\ADP.Solution.Architecture\\ADAA.ADAA.Domain\\ADP.Solution.Domain.csproj"
+            "C:\\Users\\atef\\Documents\\ADP.Solution.Architecture\\ADP.Solution.Architecture\\ADAA.ADAA.Domain\\ADP.Solution.Domain.csproj": {
+              "projectPath": "C:\\Users\\atef\\Documents\\ADP.Solution.Architecture\\ADP.Solution.Architecture\\ADAA.ADAA.Domain\\ADP.Solution.Domain.csproj"
             }
           }
         }
@@ -1042,12 +1041,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

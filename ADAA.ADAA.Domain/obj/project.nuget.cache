@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/Rw0MjmryVSaVc6VPzeLjY7XjGieSVbLqXNT5MhoCU+AEm7sD6yXQnCykJ8oBcLeMttTe0OsS2uOhkKMs3XnJw==",
+  "dgSpecHash": "cLn3i7ETDMr0+bN+mOMy/T3w2K8R4lAwryL6stKtU4e1INEBHIcis9B6IkRBtAMfoUPddy2XjskdSgS/fKVSsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\501769\\Source\\Repos\\ADP.Solution.Architecture\\ADAA.ADAA.Domain\\ADP.Solution.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\atef\\Documents\\ADP.Solution.Architecture\\ADP.Solution.Architecture\\ADAA.ADAA.Domain\\ADP.Solution.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atef\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\atef\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\atef\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

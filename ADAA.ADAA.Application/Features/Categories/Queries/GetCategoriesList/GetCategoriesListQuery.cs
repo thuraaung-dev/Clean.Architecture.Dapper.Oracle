@@ -10,7 +10,7 @@ namespace ADAA.ADP.Application.Features.Categories.Queries.GetCategoriesList
     {
         public string P_CATEGORY_DEPARTMENT_ID { get; set; }
         public bool BypassCache { get; set; }
-        public string CacheKey => $"Category-{P_CATEGORY_DEPARTMENT_ID}";
+        public string CacheKey => $"CategoryList";
         public TimeSpan? SlidingExpiration { get; set; }
     }
 }

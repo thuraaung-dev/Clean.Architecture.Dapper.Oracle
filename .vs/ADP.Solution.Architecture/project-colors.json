@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "844e25bd-b491-4f5d-9b1d-1948fd7cf44f": {
+      "ProjectGuid": "844e25bd-b491-4f5d-9b1d-1948fd7cf44f",
+      "DisplayName": "ADP.Solution.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
